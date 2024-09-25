@@ -16,26 +16,20 @@ Instalação
 
     Clone o repositório:
 
-    bash
-
-git clone https://github.com/usuario/repo.git
+git clone https://github.com/usuario/repo.git](https://github.com/GS-suzuki13/teste-aplus/
 
 Instale a dependência:
-
-bash
 
     pip install openpyxl
 
 Como Usar
 
-    Tenha duas planilhas no formato .xlsx:
-        Lista de Materiais.xlsx: Sua lista de materiais.
-        Banco de Dados.xlsx: O banco de dados Aplus.
+Tenha duas planilhas no formato .xlsx:
+    Lista de Materiais.xlsx: Sua lista de materiais.
+    Banco de Dados.xlsx: O banco de dados Aplus.
 
-    Execute o script:
+Execute o script:
 
-    bash
-
-python script.py
+    python script.py
 
 Pronto! A coluna "QUANTIDADE DE IMPORTAÇÃO" vai estar na sua planilha.
