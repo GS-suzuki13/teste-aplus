@@ -29,6 +29,6 @@ Tenha duas planilhas no formato .xlsx:
 
 Execute o script:
 
-    python script.py
+    python teste-aplus.py
 
 Pronto! A coluna "QUANTIDADE DE IMPORTAÇÃO" vai estar na sua planilha.
