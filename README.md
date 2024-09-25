@@ -13,10 +13,9 @@ Requisitos
     Biblioteca: openpyxl
 
 Instalação
+Clone o repositório:
 
-    Clone o repositório:
-
-git clone https://github.com/GS-suzuki13/teste-aplus.git
+    git clone https://github.com/GS-suzuki13/teste-aplus.git
 
 Instale a dependência:
 
